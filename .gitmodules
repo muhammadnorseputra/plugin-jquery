@@ -10,3 +10,6 @@
 [submodule "viewerjs"]
 	path = viewerjs
 	url = https://github.com/fengyuanchen/viewerjs
+[submodule "tippyjs"]
+	path = tippyjs
+	url = https://github.com/atomiks/tippyjs
