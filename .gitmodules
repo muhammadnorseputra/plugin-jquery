@@ -1,3 +1,6 @@
 [submodule "blockui2"]
 	path = blockui2
 	url = git@github.com:muhammadnorseputra/blockui.git
+[submodule "blockui"]
+	path = blockui
+	url = git@github.com:muhammadnorseputra/blockui.git
