@@ -1,3 +1,6 @@
 [submodule "blockui-2"]
 	path = blockui-2
 	url = https://github.com/malsup/blockui.git
+[submodule "pace-js"]
+	path = pace-js
+	url = https://github.com/CodeByZach/pace.git
