@@ -19,3 +19,6 @@
 [submodule "lazyload"]
 	path = lazyload
 	url = https://github.com/aFarkas/lazysizes
+[submodule "animate-css"]
+	path = animate-css
+	url = https://github.com/animate-css/animate.css
