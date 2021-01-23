@@ -22,3 +22,6 @@
 [submodule "animate-css"]
 	path = animate-css
 	url = https://github.com/animate-css/animate.css
+[submodule "js-pjax"]
+	path = js-pjax
+	url = https://github.com/defunkt/jquery-pjax
