@@ -4,3 +4,9 @@
 [submodule "pace-js"]
 	path = pace-js
 	url = https://github.com/CodeByZach/pace.git
+[submodule "input-mask"]
+	path = input-mask
+	url = https://github.com/RobinHerbots/Inputmask
+[submodule "viewerjs"]
+	path = viewerjs
+	url = https://github.com/fengyuanchen/viewerjs
