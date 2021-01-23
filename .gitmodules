@@ -13,3 +13,6 @@
 [submodule "tippyjs"]
 	path = tippyjs
 	url = https://github.com/atomiks/tippyjs
+[submodule "aos"]
+	path = aos
+	url = https://github.com/michalsnik/aos
