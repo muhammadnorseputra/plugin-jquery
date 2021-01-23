@@ -25,3 +25,6 @@
 [submodule "js-pjax"]
 	path = js-pjax
 	url = https://github.com/defunkt/jquery-pjax
+[submodule "js-validator"]
+	path = js-validator
+	url = https://github.com/victorjonsson/jQuery-Form-Validator
