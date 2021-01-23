@@ -16,3 +16,6 @@
 [submodule "aos"]
 	path = aos
 	url = https://github.com/michalsnik/aos
+[submodule "lazyload"]
+	path = lazyload
+	url = https://github.com/aFarkas/lazysizes
