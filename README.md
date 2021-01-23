@@ -1,2 +1,0 @@
-# plugin-jquery
-Kumpulan jquery

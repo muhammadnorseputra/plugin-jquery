@@ -1,4 +1,5 @@
 [submodule "blockui/"]
 	url = https://github.com/malsup/blockui.git
-[submodule "https://github.com/malsup/blockui.git"]
-	url = blockui
+[submodule "blockui-2"]
+	path = blockui-2
+	url = https://github.com/malsup/blockui.git
