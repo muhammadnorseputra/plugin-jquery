@@ -28,3 +28,6 @@
 [submodule "js-validator"]
 	path = js-validator
 	url = https://github.com/victorjonsson/jQuery-Form-Validator
+[submodule "jquery-typeahead"]
+	path = jquery-typeahead
+	url = https://github.com/running-coder/jquery-typeahead.git
