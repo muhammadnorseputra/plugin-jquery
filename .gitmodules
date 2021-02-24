@@ -64,3 +64,6 @@
 [submodule "drooltip.js"]
 	path = drooltip.js
 	url = https://github.com/prevwong/drooltip.js
+[submodule "jquery-ajaxSubmit"]
+	path = jquery-ajaxSubmit
+	url = https://github.com/claviska/jquery-ajaxSubmit
