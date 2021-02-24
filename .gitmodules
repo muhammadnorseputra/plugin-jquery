@@ -46,3 +46,6 @@
 [submodule "slidr"]
 	path = slidr
 	url = https://github.com/bchanx/slidr
+[submodule "faviconx"]
+	path = faviconx
+	url = https://github.com/nicolasbize/faviconx
