@@ -76,3 +76,6 @@
 [submodule "jBox"]
 	path = jBox
 	url = https://github.com/StephanWagner/jBox
+[submodule "awesome-spinners"]
+	path = awesome-spinners
+	url = https://github.com/yangshun/awesome-spinners
