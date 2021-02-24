@@ -40,3 +40,6 @@
 [submodule "Effeckt.css"]
 	path = Effeckt.css
 	url = https://github.com/h5bp/Effeckt.css
+[submodule "rippler"]
+	path = rippler
+	url = https://github.com/blivesta/rippler
