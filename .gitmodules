@@ -43,3 +43,6 @@
 [submodule "rippler"]
 	path = rippler
 	url = https://github.com/blivesta/rippler
+[submodule "slidr"]
+	path = slidr
+	url = https://github.com/bchanx/slidr
