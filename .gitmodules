@@ -67,3 +67,6 @@
 [submodule "jquery-ajaxSubmit"]
 	path = jquery-ajaxSubmit
 	url = https://github.com/claviska/jquery-ajaxSubmit
+[submodule "noty"]
+	path = noty
+	url = https://github.com/needim/noty
