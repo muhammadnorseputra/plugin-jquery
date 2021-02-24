@@ -52,3 +52,6 @@
 [submodule "jquery.ytLoad"]
 	path = jquery.ytLoad
 	url = https://github.com/Mythli/jquery.ytLoad
+[submodule "scrollreveal"]
+	path = scrollreveal
+	url = https://github.com/jlmakes/scrollreveal
