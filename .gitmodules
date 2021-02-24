@@ -37,3 +37,6 @@
 [submodule "Waves"]
 	path = Waves
 	url = https://github.com/fians/Waves
+[submodule "Effeckt.css"]
+	path = Effeckt.css
+	url = https://github.com/h5bp/Effeckt.css
