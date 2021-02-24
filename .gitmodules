@@ -79,3 +79,6 @@
 [submodule "awesome-spinners"]
 	path = awesome-spinners
 	url = https://github.com/yangshun/awesome-spinners
+[submodule "placeholder-loading"]
+	path = placeholder-loading
+	url = https://github.com/zalog/placeholder-loading
