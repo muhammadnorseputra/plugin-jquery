@@ -73,3 +73,6 @@
 [submodule "air-datepicker"]
 	path = air-datepicker
 	url = https://github.com/t1m0n/air-datepicker
+[submodule "jBox"]
+	path = jBox
+	url = https://github.com/StephanWagner/jBox
