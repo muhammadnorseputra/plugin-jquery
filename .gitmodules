@@ -82,3 +82,6 @@
 [submodule "placeholder-loading"]
 	path = placeholder-loading
 	url = https://github.com/zalog/placeholder-loading
+[submodule "awesome-notifications"]
+	path = awesome-notifications
+	url = https://github.com/f3oall/awesome-notifications
