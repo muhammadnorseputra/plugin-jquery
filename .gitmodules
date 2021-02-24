@@ -61,3 +61,6 @@
 [submodule "screenfull.js"]
 	path = screenfull.js
 	url = https://github.com/sindresorhus/screenfull.js
+[submodule "drooltip.js"]
+	path = drooltip.js
+	url = https://github.com/prevwong/drooltip.js
