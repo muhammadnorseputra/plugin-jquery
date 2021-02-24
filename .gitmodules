@@ -58,3 +58,6 @@
 [submodule "selectize.js"]
 	path = selectize.js
 	url = https://github.com/selectize/selectize.js
+[submodule "screenfull.js"]
+	path = screenfull.js
+	url = https://github.com/sindresorhus/screenfull.js
