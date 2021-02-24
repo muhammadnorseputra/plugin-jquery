@@ -34,3 +34,6 @@
 [submodule "fastclick"]
 	path = fastclick
 	url = https://github.com/ftlabs/fastclick
+[submodule "Waves"]
+	path = Waves
+	url = https://github.com/fians/Waves
