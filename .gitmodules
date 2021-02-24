@@ -49,3 +49,6 @@
 [submodule "faviconx"]
 	path = faviconx
 	url = https://github.com/nicolasbize/faviconx
+[submodule "jquery.ytLoad"]
+	path = jquery.ytLoad
+	url = https://github.com/Mythli/jquery.ytLoad
