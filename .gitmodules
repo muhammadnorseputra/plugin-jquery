@@ -55,3 +55,6 @@
 [submodule "scrollreveal"]
 	path = scrollreveal
 	url = https://github.com/jlmakes/scrollreveal
+[submodule "selectize.js"]
+	path = selectize.js
+	url = https://github.com/selectize/selectize.js
